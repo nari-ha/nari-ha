@@ -1,8 +1,5 @@
 👋 Hi, I’m Nari Ha 🇰🇷 <br/>
-👀 I’m interested in ML Engineer and Full-Stack Engineer <br/>
-🌱 I’m currently learning Computer Vision and React.js and TypeScript <br/>
-💞️ I’m looking to collaborate on Web projects <br/>
-📫 How to reach me narihanar@gmail.com <br/>
+👀 Writing...
 
 <!---
 nari-ha/nari-ha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
